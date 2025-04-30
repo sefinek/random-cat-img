@@ -7,10 +7,10 @@
     </h3>
     <a href="https://www.npmjs.com/package/random-cat-img" target="_blank" title="random-cat-img - npm" style="text-decoration:none">
         <img src="https://img.shields.io/npm/dt/random-cat-img.svg?maxAge=3600" alt="The number of downloads">
-        <img src="https://img.shields.io/github/issues/sefinek24/random-cat-img" alt="Issues">
-        <img src="https://img.shields.io/github/last-commit/sefinek24/random-cat-img" alt="Last commit">
-        <img src="https://img.shields.io/github/commit-activity/w/sefinek24/random-cat-img" alt="Commit activity">
-        <img src="https://img.shields.io/github/languages/code-size/sefinek24/random-cat-img" alt="Code size">
+        <img src="https://img.shields.io/github/issues/sefinek/random-cat-img" alt="Issues">
+        <img src="https://img.shields.io/github/last-commit/sefinek/random-cat-img" alt="Last commit">
+        <img src="https://img.shields.io/github/commit-activity/w/sefinek/random-cat-img" alt="Commit activity">
+        <img src="https://img.shields.io/github/languages/code-size/sefinek/random-cat-img" alt="Code size">
     </a>
 </div>
 
@@ -53,9 +53,9 @@ getRandomCat().then(data => console.log(data.message)); // https://cdn.sefinek.n
 
 
 ## ✨ » Final information
-Open a new [Issue](https://github.com/sefinek24/random-cat-img/issues/new) if you have any questions or issues related to this module or API.
+Open a new [Issue](https://github.com/sefinek/random-cat-img/issues/new) if you have any questions or issues related to this module or API.
 
-If you like this module, please star [the repository](https://github.com/sefinek24/random-cat-img).
+If you like this module, please star [the repository](https://github.com/sefinek/random-cat-img).
 
 
 ## 📜 » License MIT

@@ -3,7 +3,7 @@ const { name, version, devDependencies } = require('./package.json');
 
 const apiUrl = 'https://api.sefinek.net/api/v2/random/animal/cat';
 const headers = {
-	'User-Agent': `${name}/${version} (+https://github.com/sefinek24/random-cat-img)${process.env.JEST_WORKER_ID === undefined ? '' : ` jest/${devDependencies.jest.replace('^', '')}`}`,
+	'User-Agent': `${name}/${version} (+https://github.com/sefinek/random-cat-img)${process.env.JEST_WORKER_ID === undefined ? '' : ` jest/${devDependencies.jest.replace('^', '')}`}`,
 	'Accept': 'application/json',
 	'Content-Type': 'application/json',
 	'Cache-Control': 'no-cache',
