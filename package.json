@@ -47,10 +47,10 @@
     "test": "test"
   },
   "scripts": {
+    "m": "ncu -u && npm install && npm update",
     "test": "jest test/index.test.js",
     "test-async": "node examples/async.example.js",
-    "test-promise": "node examples/promise.example.js",
-    "up": "ncu -u && npm install && npm update && npm audit fix"
+    "test-promise": "node examples/promise.example.js"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.1",
